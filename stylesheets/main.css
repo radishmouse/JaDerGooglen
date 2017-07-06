@@ -5,6 +5,10 @@ html {
   box-sizing: inherit; 
 }
 
+.search-field {
+  height: 44px;
+  width: 484px;
+}
 
 .action-button {
   background-color: #f2f2f2;
