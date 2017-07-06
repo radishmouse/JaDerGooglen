@@ -31,6 +31,11 @@ body {
   color: yellow;
 }
 
+.search-area {
+  margin-top: 40px;  
+  margin-bottom: 40px;  
+}
+
 .search-field {
   height: 44px;
   width: 484px;
