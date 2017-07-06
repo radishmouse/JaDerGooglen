@@ -5,6 +5,11 @@ html {
   box-sizing: inherit; 
 }
 
+.logo span {
+  font-size: 64px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 .search-field {
   height: 44px;
   width: 484px;
