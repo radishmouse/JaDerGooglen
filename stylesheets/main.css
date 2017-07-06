@@ -5,6 +5,10 @@ html {
   box-sizing: inherit; 
 }
 
+.centered-container {
+  text-align: center;
+}
+
 .logo span {
   font-size: 64px;
   font-family: Arial, Helvetica, sans-serif;
