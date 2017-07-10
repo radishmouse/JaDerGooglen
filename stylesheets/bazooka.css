@@ -1,0 +1,43 @@
+html { 
+  box-sizing: border-box; 
+} 
+*, *:before, *:after { 
+  box-sizing: inherit; 
+}
+
+* {
+  border: 1px solid slategray;
+}
+
+.row {
+  width: 100%;
+  clear: both;
+}
+
+.col-full {
+  float: left;
+  width: 100%;
+}
+
+.col-half {
+  float: left;
+  width: 50%;
+}
+
+.col-third {
+  float: left;
+  width: 33%;
+}
+
+@media screen and (min-width: 500px) {
+  .col-quarter-tablet {
+    float: left;
+    width: 25%;
+  }
+
+  .col-third-tablet {
+    float: left;
+    width: 33%;
+  }
+  
+}
